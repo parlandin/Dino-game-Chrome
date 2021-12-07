@@ -1,0 +1,10 @@
+body {
+    width: 100%;
+    height: 1vh;
+}
+
+#canvas {
+    display: block;
+    margin: 0 auto;
+   /*  border: solid 1px hsl(0, 0%, 6%);  */ 
+}

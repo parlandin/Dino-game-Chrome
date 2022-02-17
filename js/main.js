@@ -307,7 +307,7 @@ const Telas = {
         atualiza(){
 
         },
-        click(){
+        mousedown(){
             mudarParaTela(Telas.JOGO)
             dino.pular()
         }
@@ -329,7 +329,7 @@ const Telas = {
             chao.atualiza()
             cactos.atualiza()
         },
-        click(){
+        mousedown(){
             
             dino.pular()
         }
@@ -345,7 +345,7 @@ const Telas = {
             dino.desenha()
             btnRepetir.desenha() 
         },
-        click(){
+        mousedown(){
             mudarParaTela(Telas.INICIO)
             cactos.gerarCactos = []
             velocidade = 8
@@ -386,9 +386,9 @@ window.addEventListener("keyup", function(e){
 })
 
 
-window.addEventListener("click", function(e){
-    if(telaAtiva.click){
-        telaAtiva.click()
+window.addEventListener("mousedown", function(e){
+    if(telaAtiva.mousedown){
+        telaAtiva.mousedown()
     }
     console.log(e.key)
 })

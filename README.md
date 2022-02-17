@@ -1,6 +1,6 @@
 # Dino-game-Chrome
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="https://github.com/Gu-Parlandim/Dino-game-Chrome/blob/master/assets/Screenshot%20(135).png" alt="exemplo imagem">
 
 > Jogo feito em javaScript baseado no dino do chrome offline .
 
@@ -47,6 +47,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </table>
 
 
-[⬆ Voltar ao topo](Dino-game-Chrome)<br>
+[⬆ Voltar ao topo](#Dino-game-Chrome)<br>
 
 

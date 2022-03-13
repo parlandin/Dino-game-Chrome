@@ -67,7 +67,8 @@ const Telas = {
         atualiza(){
             Dino.atualiza(frames)
             Chao.atualiza()
-            Cactos.atualiza(frames, Dino, velocidade)
+            //solução temporaria
+            Cactos.atualiza(frames, Dino, velocidade, mudarParaTela, Telas)
         },
         mousedown(){
             

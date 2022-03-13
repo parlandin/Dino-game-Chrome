@@ -84,10 +84,11 @@ class Cactos  {
     }
 
     tempoInserirCacto = 0
-
-    atualiza(frames, Dino, velocidade){
+    
+    //solução temporaria
+    atualiza(frames, Dino, velocidade, mudarParaTela, Telas){
         if(this.tempoInserirCacto == 0){
-            this.tempoInserirCacto = 35 + Math.floor(Math.random() * 30)
+            this.tempoInserirCacto = 25 + Math.floor(Math.random() * 30)
             let randomCactos = parseInt(Math.random()* 6)
             this.gerarCactos.push({x:900, randomCactos})
         }

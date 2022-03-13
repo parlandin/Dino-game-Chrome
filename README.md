@@ -43,7 +43,17 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/75446275?v=4" width="100px;" alt="Foto do Daniel Sobrinho GitHub"/><br>
+        <sub>
+          <b>Daniel Sobrinho</b>
+        </sub>
+      </a>
+    </td>
+    
   </tr>
+  
 </table>
 
 

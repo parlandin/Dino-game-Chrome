@@ -45,9 +45,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/56051040?v=4" width="100px;" alt="Foto do parlandim no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/75446275?v=4" width="100px;" alt="Foto do Daniel Sobrinho GitHub"/><br>
         <sub>
-          <b>Parlandim</b>
+          <b>Daniel Sobrinho</b>
         </sub>
       </a>
     </td>

@@ -372,7 +372,7 @@ function loop() {
 mudarParaTela(Telas.INICIO)
 loop()
 
-window.addEventListener("keyup", function(e){
+window.addEventListener("keydown", function(e){
    if(telaAtiva.keyup && e.keyCode == 38){
         telaAtiva.keyup() 
     }  

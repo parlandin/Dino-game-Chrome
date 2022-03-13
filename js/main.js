@@ -75,6 +75,7 @@ let dino = {
         }
 
         else if(!this.pulando){
+            somPulo.pause()
             this.largura = 43
             this.atualizaFrameAtual()
             const {spriteX, spriteY} = this.movimentos[this.frameAtual]

@@ -9,7 +9,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Corringir aréas de impacto.
-- [ ] ajustar geração de cactos.
+- [ ] adicionar mais tipos de inimigo.
 
 ## 🚀 Instalando
 
